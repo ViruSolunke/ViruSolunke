@@ -15,6 +15,30 @@ Hi i am Virendra Solunke Data Visualization Associate Intern @ Excelerate | Aspi
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ViruSolunke&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+</div> -->
+<div align="center"> 
+<h2 align="center">Leetcode Info<h2>  
+<p align="center">
+  <a href="https://leetcode.com/mohit_solunke/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/mohit_solunke/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/mohit_solunke/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/mohit_solunke/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
+</p>
+
+
+
+
+<br/>
+  <h2 align="center">⚡ Current Statistics ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=MohitSolunke2003&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=MohitSolunke2003&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitSolunke2003&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+  <br/>
+
 ---
 [![](https://komarev.com/ghpvc/?username=ViruSolunke&icon=0&color=0)](https://visitcount.itsvg.in)
 
