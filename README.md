@@ -54,7 +54,7 @@ me.say_hi()
 
 **Data Analytics Job Simulation**
 Forage virtual job simulation — performed data analysis & created data-driven recommendations for a client-style business case.
-`Excel` `Data Cleaning` `Business Insight` &nbsp;|&nbsp; [🔗 https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_6a106dec412e572ec12ca6d5_1779533556689_completion_certificate.pdf](#)
+`Excel` `Data Cleaning` `Business Insight` &nbsp;|&nbsp; [🔗 Verify Certificate](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_6a106dec412e572ec12ca6d5_1779533556689_completion_certificate.pdf)
 
 </td>
 </tr>
@@ -64,7 +64,7 @@ Forage virtual job simulation — performed data analysis & created data-driven 
 
 **Google Data Analytics Certificate**
 End-to-end data analytics process — cleaning, analysis, visualization & reporting using industry tools.
-`Spreadsheets` `SQL` `Tableau` `R` &nbsp;|&nbsp; [🔗 https://skillshop.credential.net/b314f254-6337-4fae-8e5b-a44784ce4c87#acc.bBcVtuKI](#)
+`Spreadsheets` `SQL` `Tableau` `R` &nbsp;|&nbsp; [🔗 Verify Certificate](https://skillshop.credential.net/b314f254-6337-4fae-8e5b-a44784ce4c87#acc.bBcVtuKI)
 
 </td>
 </tr>
@@ -74,17 +74,17 @@ End-to-end data analytics process — cleaning, analysis, visualization & report
 
 **Career Essentials in Generative AI by Microsoft and LinkedIn**
 Core concepts of Artificial Intelligence & Machine Learning, model lifecycle and responsible AI principles.
-`AI Concepts` `ML Basics` `Azure AI` &nbsp;|&nbsp; [🔗 https://www.linkedin.com/learning/certificates/7534e843fd9d97e896fa5e45d2820715fe2a639fa81bdb33f0f040b27fc4f00f?trk=share_certificate](#)
+`AI Concepts` `ML Basics` `Azure AI` &nbsp;|&nbsp; [🔗 Verify Certificate](https://www.linkedin.com/learning/certificates/7534e843fd9d97e896fa5e45d2820715fe2a639fa81bdb33f0f040b27fc4f00f?trk=share_certificate)
 
 </td>
 </tr>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/-TATA-1A56DB?style=for-the-badge&logo=tata-consultancy-services&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/-TATA-1A56DB?style=for-the-badge&logoColor=white"/></td>
 <td>
 
 **Data Visualization Virtual Internship**
 Forage virtual simulation — built visual stories from raw data to support strategic business decisions.
-`Power BI` `Dashboarding` `Storytelling` &nbsp;|&nbsp; [🔗 https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_6a106dec412e572ec12ca6d5_1780560295662_completion_certificate.pdf](#)
+`Power BI` `Dashboarding` `Storytelling` &nbsp;|&nbsp; [🔗 Verify Certificate](https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_6a106dec412e572ec12ca6d5_1780560295662_completion_certificate.pdf)
 
 </td>
 </tr>
@@ -94,7 +94,7 @@ Forage virtual simulation — built visual stories from raw data to support stra
 
 **AI Literacy Foundations**
 Introduction to the data science methodology, tools, and real-world applications of analytics & ML.
-`Python` `Jupyter` `Data Science Methodology` &nbsp;|&nbsp; [🔗 https://www.credly.com/badges/5b6aa62e-2d5b-4bc5-91a7-f2dd604528a3/linked_in_profile](#)
+`Python` `Jupyter` `Data Science Methodology` &nbsp;|&nbsp; [🔗 Verify Certificate](https://www.credly.com/badges/5b6aa62e-2d5b-4bc5-91a7-f2dd604528a3/linked_in_profile)
 
 </td>
 </tr>
@@ -104,13 +104,13 @@ Introduction to the data science methodology, tools, and real-world applications
 
 **Data Analysis with Python**
 300-hour certification covering Python-based data analysis, NumPy, Pandas & data visualization.
-`Python` `NumPy` `Pandas` `Matplotlib` &nbsp;|&nbsp; [🔗https://freecodecamp.org/certification/fcc-dc033023-3b05-4947-b64d-4d4b304f2d51/data-analysis-with-python-v7](#)
+`Python` `NumPy` `Pandas` `Matplotlib` &nbsp;|&nbsp; [🔗 Verify Certificate](https://freecodecamp.org/certification/fcc-dc033023-3b05-4947-b64d-4d4b304f2d51/data-analysis-with-python-v7)
 
 </td>
 </tr>
 </table>
 
-<div align="center"><sub>💡 Swap every <code>#</code> above with your real Credly / Coursera / Forage certificate URL — then each row becomes a clickable, verifiable credential.</sub></div>
+<div align="center"><sub>✅ All 6 credentials verified and linked — click any "Verify Certificate" above to view the original certificate.</sub></div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/lines-rainbow.gif" width="100%">
 
